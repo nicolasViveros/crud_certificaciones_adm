@@ -1,0 +1,295 @@
+[19-Mar-2024 20:04:55 America/Santiago] PHP Parse error:  syntax error, unexpected token "empty" in /home1/admtraining/public_html/certificaciones/addAction.php on line 27
+[19-Mar-2024 20:05:14 America/Santiago] PHP Parse error:  syntax error, unexpected token "empty" in /home1/admtraining/public_html/certificaciones/addAction.php on line 27
+[19-Mar-2024 20:06:55 America/Santiago] PHP Parse error:  syntax error, unexpected token "empty" in /home1/admtraining/public_html/certificaciones/addAction.php on line 27
+[19-Mar-2024 20:08:07 America/Santiago] PHP Parse error:  syntax error, unexpected token "empty" in /home1/admtraining/public_html/certificaciones/addAction.php on line 29
+[19-Mar-2024 20:08:26 America/Santiago] PHP Parse error:  syntax error, unexpected token "empty" in /home1/admtraining/public_html/certificaciones/addAction.php on line 30
+[19-Mar-2024 20:09:11 America/Santiago] PHP Fatal error:  Uncaught Error: Undefined constant "end" in /home1/admtraining/public_html/certificaciones/addAction.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/admtraining/public_html/certificaciones/addAction.php on line 12
+[19-Mar-2024 20:10:06 America/Santiago] PHP Fatal error:  Uncaught Error: Undefined constant "end" in /home1/admtraining/public_html/certificaciones/addAction.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/admtraining/public_html/certificaciones/addAction.php on line 12
+[19-Mar-2024 20:10:17 America/Santiago] PHP Fatal error:  Uncaught Error: Undefined constant "end" in /home1/admtraining/public_html/certificaciones/addAction.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/admtraining/public_html/certificaciones/addAction.php on line 12
+[19-Mar-2024 20:11:55 America/Santiago] PHP Fatal error:  Uncaught Error: Undefined constant "end" in /home1/admtraining/public_html/certificaciones/addAction.php:28
+Stack trace:
+#0 {main}
+  thrown in /home1/admtraining/public_html/certificaciones/addAction.php on line 28
+[19-Mar-2024 20:14:25 America/Santiago] PHP Parse error:  syntax error, unexpected token "empty" in /home1/admtraining/public_html/certificaciones/addAction.php on line 29
+[19-Mar-2024 20:16:06 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/admtraining/public_html/certificaciones/addAction.php:41
+Stack trace:
+#0 /home1/admtraining/public_html/certificaciones/addAction.php(41): mysqli_query(Object(mysqli), 'INSERT INTO cer...')
+#1 {main}
+  thrown in /home1/admtraining/public_html/certificaciones/addAction.php on line 41
+[19-Mar-2024 20:21:16 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/admtraining/public_html/certificaciones/addAction.php:41
+Stack trace:
+#0 /home1/admtraining/public_html/certificaciones/addAction.php(41): mysqli_query(Object(mysqli), 'INSERT INTO cer...')
+#1 {main}
+  thrown in /home1/admtraining/public_html/certificaciones/addAction.php on line 41
+[19-Mar-2024 20:22:00 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/admtraining/public_html/certificaciones/addAction.php:41
+Stack trace:
+#0 /home1/admtraining/public_html/certificaciones/addAction.php(41): mysqli_query(Object(mysqli), 'INSERT INTO cer...')
+#1 {main}
+  thrown in /home1/admtraining/public_html/certificaciones/addAction.php on line 41
+[19-Mar-2024 20:22:58 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/admtraining/public_html/certificaciones/addAction.php:41
+Stack trace:
+#0 /home1/admtraining/public_html/certificaciones/addAction.php(41): mysqli_query(Object(mysqli), 'INSERT INTO cer...')
+#1 {main}
+  thrown in /home1/admtraining/public_html/certificaciones/addAction.php on line 41
+[19-Mar-2024 21:10:12 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/edit.php on line 14
+[19-Mar-2024 21:10:12 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/edit.php on line 15
+[19-Mar-2024 21:10:12 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/edit.php on line 16
+[19-Mar-2024 21:17:11 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/edit.php on line 14
+[19-Mar-2024 21:17:11 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/edit.php on line 15
+[19-Mar-2024 21:17:11 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/edit.php on line 16
+[20-Mar-2024 13:37:24 America/Santiago] PHP Warning:  Undefined variable $Codigo_Interno in /home1/admtraining/public_html/certificaciones/edit.php on line 43
+[20-Mar-2024 13:37:24 America/Santiago] PHP Warning:  Undefined variable $Nombre_Participante in /home1/admtraining/public_html/certificaciones/edit.php on line 47
+[20-Mar-2024 13:37:24 America/Santiago] PHP Warning:  Undefined variable $Rut_Participante in /home1/admtraining/public_html/certificaciones/edit.php on line 50
+[20-Mar-2024 13:37:24 America/Santiago] PHP Warning:  Undefined variable $Empresa in /home1/admtraining/public_html/certificaciones/edit.php on line 53
+[20-Mar-2024 13:37:24 America/Santiago] PHP Warning:  Undefined variable $Rut_Empresa in /home1/admtraining/public_html/certificaciones/edit.php on line 56
+[20-Mar-2024 13:37:24 America/Santiago] PHP Warning:  Undefined variable $Fecha_Inicio_Curso in /home1/admtraining/public_html/certificaciones/edit.php on line 59
+[20-Mar-2024 13:37:24 America/Santiago] PHP Warning:  Undefined variable $Fecha_Fin_Curso in /home1/admtraining/public_html/certificaciones/edit.php on line 62
+[20-Mar-2024 13:37:24 America/Santiago] PHP Warning:  Undefined variable $Nombre_Curso in /home1/admtraining/public_html/certificaciones/edit.php on line 65
+[20-Mar-2024 13:37:24 America/Santiago] PHP Warning:  Undefined variable $Horas_Curso in /home1/admtraining/public_html/certificaciones/edit.php on line 68
+[20-Mar-2024 13:37:24 America/Santiago] PHP Warning:  Undefined variable $Ciudad in /home1/admtraining/public_html/certificaciones/edit.php on line 71
+[20-Mar-2024 13:37:24 America/Santiago] PHP Warning:  Undefined variable $Fecha_Expiracion in /home1/admtraining/public_html/certificaciones/edit.php on line 74
+[20-Mar-2024 13:37:24 America/Santiago] PHP Warning:  Undefined variable $Nota in /home1/admtraining/public_html/certificaciones/edit.php on line 77
+[20-Mar-2024 13:37:36 America/Santiago] PHP Warning:  Undefined variable $Codigo_Interno in /home1/admtraining/public_html/certificaciones/edit.php on line 43
+[20-Mar-2024 13:37:36 America/Santiago] PHP Warning:  Undefined variable $Nombre_Participante in /home1/admtraining/public_html/certificaciones/edit.php on line 47
+[20-Mar-2024 13:37:36 America/Santiago] PHP Warning:  Undefined variable $Rut_Participante in /home1/admtraining/public_html/certificaciones/edit.php on line 50
+[20-Mar-2024 13:37:36 America/Santiago] PHP Warning:  Undefined variable $Empresa in /home1/admtraining/public_html/certificaciones/edit.php on line 53
+[20-Mar-2024 13:37:36 America/Santiago] PHP Warning:  Undefined variable $Rut_Empresa in /home1/admtraining/public_html/certificaciones/edit.php on line 56
+[20-Mar-2024 13:37:36 America/Santiago] PHP Warning:  Undefined variable $Fecha_Inicio_Curso in /home1/admtraining/public_html/certificaciones/edit.php on line 59
+[20-Mar-2024 13:37:36 America/Santiago] PHP Warning:  Undefined variable $Fecha_Fin_Curso in /home1/admtraining/public_html/certificaciones/edit.php on line 62
+[20-Mar-2024 13:37:36 America/Santiago] PHP Warning:  Undefined variable $Nombre_Curso in /home1/admtraining/public_html/certificaciones/edit.php on line 65
+[20-Mar-2024 13:37:36 America/Santiago] PHP Warning:  Undefined variable $Horas_Curso in /home1/admtraining/public_html/certificaciones/edit.php on line 68
+[20-Mar-2024 13:37:36 America/Santiago] PHP Warning:  Undefined variable $Ciudad in /home1/admtraining/public_html/certificaciones/edit.php on line 71
+[20-Mar-2024 13:37:36 America/Santiago] PHP Warning:  Undefined variable $Fecha_Expiracion in /home1/admtraining/public_html/certificaciones/edit.php on line 74
+[20-Mar-2024 13:37:36 America/Santiago] PHP Warning:  Undefined variable $Nota in /home1/admtraining/public_html/certificaciones/edit.php on line 77
+[20-Mar-2024 13:39:05 America/Santiago] PHP Warning:  Undefined variable $Rut_Empresa in /home1/admtraining/public_html/certificaciones/edit.php on line 56
+[20-Mar-2024 13:39:05 America/Santiago] PHP Warning:  Undefined variable $age in /home1/admtraining/public_html/certificaciones/edit.php on line 87
+[20-Mar-2024 13:39:05 America/Santiago] PHP Warning:  Undefined variable $email in /home1/admtraining/public_html/certificaciones/edit.php on line 91
+[20-Mar-2024 13:40:08 America/Santiago] PHP Warning:  Undefined variable $name in /home1/admtraining/public_html/certificaciones/edit.php on line 83
+[20-Mar-2024 13:40:08 America/Santiago] PHP Warning:  Undefined variable $age in /home1/admtraining/public_html/certificaciones/edit.php on line 87
+[20-Mar-2024 13:40:08 America/Santiago] PHP Warning:  Undefined variable $email in /home1/admtraining/public_html/certificaciones/edit.php on line 91
+[20-Mar-2024 14:04:48 America/Santiago] PHP Parse error:  Unmatched '}' in /home1/admtraining/public_html/certificaciones/editAction.php on line 60
+[20-Mar-2024 14:05:25 America/Santiago] PHP Parse error:  Unmatched '}' in /home1/admtraining/public_html/certificaciones/editAction.php on line 60
+[20-Mar-2024 14:09:30 America/Santiago] PHP Parse error:  Unmatched '}' in /home1/admtraining/public_html/certificaciones/editAction.php on line 60
+[20-Mar-2024 14:11:48 America/Santiago] PHP Parse error:  Unmatched '}' in /home1/admtraining/public_html/certificaciones/editAction.php on line 63
+[20-Mar-2024 14:19:30 America/Santiago] PHP Parse error:  Unmatched '}' in /home1/admtraining/public_html/certificaciones/editAction.php on line 63
+[20-Mar-2024 14:21:01 America/Santiago] PHP Parse error:  Unmatched '}' in /home1/admtraining/public_html/certificaciones/editAction.php on line 63
+[20-Mar-2024 14:21:37 America/Santiago] PHP Parse error:  syntax error, unexpected identifier "end", expecting "," or ";" in /home1/admtraining/public_html/certificaciones/editAction.php on line 28
+[20-Mar-2024 14:28:31 America/Santiago] PHP Parse error:  syntax error, unexpected identifier "end", expecting "," or ";" in /home1/admtraining/public_html/certificaciones/editAction.php on line 30
+[20-Mar-2024 14:30:25 America/Santiago] PHP Parse error:  syntax error, unexpected identifier "end", expecting "," or ";" in /home1/admtraining/public_html/certificaciones/editAction.php on line 30
+[20-Mar-2024 14:37:03 America/Santiago] PHP Parse error:  syntax error, unexpected identifier "end", expecting "," or ";" in /home1/admtraining/public_html/certificaciones/editAction.php on line 30
+[20-Mar-2024 14:38:17 America/Santiago] PHP Parse error:  syntax error, unexpected identifier "end", expecting "," or ";" in /home1/admtraining/public_html/certificaciones/editAction.php on line 30
+[20-Mar-2024 14:43:25 America/Santiago] PHP Parse error:  Unmatched '}' in /home1/admtraining/public_html/certificaciones/editAction.php on line 66
+[20-Mar-2024 14:48:57 America/Santiago] PHP Parse error:  Unmatched '}' in /home1/admtraining/public_html/certificaciones/editAction.php on line 53
+[20-Mar-2024 14:50:14 America/Santiago] PHP Parse error:  Unmatched '}' in /home1/admtraining/public_html/certificaciones/editAction.php on line 54
+[20-Mar-2024 14:52:02 America/Santiago] PHP Parse error:  Unmatched '}' in /home1/admtraining/public_html/certificaciones/editAction.php on line 55
+[20-Mar-2024 14:53:13 America/Santiago] PHP Warning:  Undefined variable $Codigo_Interno in /home1/admtraining/public_html/certificaciones/editAction.php on line 47
+[20-Mar-2024 14:53:13 America/Santiago] PHP Warning:  Undefined variable $Nombre_Participante in /home1/admtraining/public_html/certificaciones/editAction.php on line 47
+[20-Mar-2024 14:53:13 America/Santiago] PHP Warning:  Undefined variable $Rut_Participante in /home1/admtraining/public_html/certificaciones/editAction.php on line 47
+[20-Mar-2024 14:53:13 America/Santiago] PHP Warning:  Undefined variable $Empresa in /home1/admtraining/public_html/certificaciones/editAction.php on line 47
+[20-Mar-2024 14:53:13 America/Santiago] PHP Warning:  Undefined variable $Rut_Empresa in /home1/admtraining/public_html/certificaciones/editAction.php on line 47
+[20-Mar-2024 14:53:13 America/Santiago] PHP Warning:  Undefined variable $Fecha_Inicio_Curso in /home1/admtraining/public_html/certificaciones/editAction.php on line 47
+[20-Mar-2024 14:53:13 America/Santiago] PHP Warning:  Undefined variable $Fecha_Fin_Curso in /home1/admtraining/public_html/certificaciones/editAction.php on line 47
+[20-Mar-2024 14:53:13 America/Santiago] PHP Warning:  Undefined variable $Nombre_Curso in /home1/admtraining/public_html/certificaciones/editAction.php on line 47
+[20-Mar-2024 14:53:13 America/Santiago] PHP Warning:  Undefined variable $Horas_Curso in /home1/admtraining/public_html/certificaciones/editAction.php on line 47
+[20-Mar-2024 14:53:13 America/Santiago] PHP Warning:  Undefined variable $Ciudad in /home1/admtraining/public_html/certificaciones/editAction.php on line 47
+[20-Mar-2024 14:53:13 America/Santiago] PHP Warning:  Undefined variable $Fecha_Expiracion in /home1/admtraining/public_html/certificaciones/editAction.php on line 47
+[20-Mar-2024 14:53:13 America/Santiago] PHP Warning:  Undefined variable $Nota in /home1/admtraining/public_html/certificaciones/editAction.php on line 47
+[20-Mar-2024 16:13:39 America/Santiago] PHP Fatal error:  Uncaught Error: Undefined constant "«logo" in /home1/admtraining/public_html/certificaciones/show.php:35
+Stack trace:
+#0 {main}
+  thrown in /home1/admtraining/public_html/certificaciones/show.php on line 35
+[20-Mar-2024 16:18:30 America/Santiago] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in /home1/admtraining/public_html/certificaciones/show.php on line 35
+[20-Mar-2024 16:18:34 America/Santiago] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in /home1/admtraining/public_html/certificaciones/show.php on line 35
+[20-Mar-2024 16:19:39 America/Santiago] PHP Parse error:  syntax error, unexpected identifier "header" in /home1/admtraining/public_html/certificaciones/show.php on line 36
+[21-Mar-2024 00:33:24 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/show.php on line 14
+[21-Mar-2024 00:33:24 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/show.php on line 15
+[21-Mar-2024 00:33:24 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/show.php on line 16
+[21-Mar-2024 00:33:24 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/show.php on line 17
+[21-Mar-2024 00:33:24 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/show.php on line 18
+[21-Mar-2024 00:33:24 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/show.php on line 19
+[21-Mar-2024 00:33:24 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/show.php on line 20
+[21-Mar-2024 00:33:24 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/show.php on line 21
+[21-Mar-2024 00:33:24 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/show.php on line 22
+[21-Mar-2024 00:33:24 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/show.php on line 23
+[21-Mar-2024 00:33:24 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/show.php on line 24
+[21-Mar-2024 00:33:24 America/Santiago] PHP Warning:  Trying to access array offset on value of type null in /home1/admtraining/public_html/certificaciones/show.php on line 25
+[26-Mar-2024 21:16:34 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 4
+[26-Mar-2024 21:16:34 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:16:52 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 4
+[26-Mar-2024 21:16:52 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:16:54 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 4
+[26-Mar-2024 21:16:54 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:17:03 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:17:06 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 4
+[26-Mar-2024 21:17:06 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:19:16 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 7
+[26-Mar-2024 21:21:07 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:21:16 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:21:45 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:21:45 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 19
+[26-Mar-2024 21:24:48 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:25:01 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:25:11 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:25:11 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 19
+[26-Mar-2024 21:26:17 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:26:23 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:26:23 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 19
+[26-Mar-2024 21:29:01 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:29:07 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:29:13 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:29:13 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 20
+[26-Mar-2024 21:29:27 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:29:27 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 20
+[26-Mar-2024 21:29:47 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:31:34 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:31:34 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 20
+[26-Mar-2024 21:31:49 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 7
+[26-Mar-2024 21:33:43 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 7
+[26-Mar-2024 21:33:48 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:33:53 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:34:10 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 7
+[26-Mar-2024 21:34:27 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:34:32 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:36:49 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:36:59 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:36:59 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 23
+[26-Mar-2024 21:37:27 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:37:27 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 23
+[26-Mar-2024 21:40:00 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:40:00 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 22
+[26-Mar-2024 21:40:08 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:40:15 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:40:15 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 22
+[26-Mar-2024 21:41:00 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:41:06 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:41:08 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:41:19 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:41:21 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:41:21 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 22
+[26-Mar-2024 21:41:25 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:41:25 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 22
+[26-Mar-2024 21:41:32 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:41:32 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 22
+[26-Mar-2024 21:41:41 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:41:45 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:41:51 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:41:51 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 22
+[26-Mar-2024 21:44:57 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:44:57 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 22
+[26-Mar-2024 21:45:06 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:45:08 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:45:15 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:45:15 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 22
+[26-Mar-2024 21:46:17 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:46:19 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:46:23 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:46:23 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 21
+[26-Mar-2024 21:46:35 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:46:35 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/login.php on line 21
+[26-Mar-2024 21:49:38 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:49:40 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:49:44 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:49:45 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:52:29 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:52:42 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/index.php on line 12
+[26-Mar-2024 21:52:45 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/index.php on line 12
+[26-Mar-2024 21:52:51 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:52:56 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/index.php on line 12
+[26-Mar-2024 21:53:22 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:53:26 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:53:33 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/index.php on line 12
+[26-Mar-2024 21:55:12 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:55:12 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/index.php on line 9
+[26-Mar-2024 21:55:17 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:55:17 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/index.php on line 9
+[26-Mar-2024 21:55:46 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:55:46 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/index.php on line 9
+[26-Mar-2024 21:55:54 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:55:54 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/index.php on line 9
+[26-Mar-2024 21:56:11 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:56:11 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/includes.php:1) in /home1/admtraining/public_html/certificaciones/index.php on line 9
+[26-Mar-2024 21:56:49 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:56:50 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:56:51 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:56:51 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:56:55 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:56:56 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:56:58 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:57:04 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:57:04 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:57:05 America/Santiago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/admtraining/public_html/certificaciones/login.php on line 4
+[26-Mar-2024 21:58:30 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:58:59 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 21:59:31 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 22:00:12 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 22:00:12 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/index.php:6) in /home1/admtraining/public_html/certificaciones/index.php on line 9
+[26-Mar-2024 22:01:06 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 22:01:06 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/index.php:6) in /home1/admtraining/public_html/certificaciones/index.php on line 9
+[26-Mar-2024 22:01:14 America/Santiago] PHP Warning:  Undefined array key "success" in /home1/admtraining/public_html/certificaciones/index.php on line 8
+[26-Mar-2024 22:01:14 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/admtraining/public_html/certificaciones/index.php:6) in /home1/admtraining/public_html/certificaciones/index.php on line 9
+[26-Mar-2024 22:01:38 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 7
+[26-Mar-2024 22:10:13 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[26-Mar-2024 22:10:33 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[26-Mar-2024 22:27:39 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[26-Mar-2024 23:13:49 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[26-Mar-2024 23:14:23 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[26-Mar-2024 23:14:46 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[26-Mar-2024 23:15:02 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[27-Mar-2024 00:21:23 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[27-Mar-2024 00:57:56 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[27-Mar-2024 11:22:57 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[27-Mar-2024 11:33:03 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[27-Mar-2024 18:33:21 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[27-Mar-2024 18:34:51 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[28-Mar-2024 09:48:55 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[28-Mar-2024 10:01:02 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[28-Mar-2024 10:58:07 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[28-Mar-2024 19:04:26 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[28-Mar-2024 21:23:29 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[28-Mar-2024 21:26:24 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[01-Apr-2024 12:09:06 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[01-Apr-2024 12:10:26 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[01-Apr-2024 12:16:01 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[01-Apr-2024 16:59:12 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[02-Apr-2024 16:22:47 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[02-Apr-2024 16:23:47 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[02-Apr-2024 17:40:11 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[03-Apr-2024 15:30:18 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[03-Apr-2024 19:09:32 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[04-Apr-2024 14:04:44 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[04-Apr-2024 15:51:15 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[04-Apr-2024 17:36:43 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[04-Apr-2024 18:33:48 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[04-Apr-2024 20:48:41 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[04-Apr-2024 21:41:43 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[04-Apr-2024 22:01:09 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[08-Apr-2024 15:53:36 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[10-Apr-2024 11:27:00 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[10-Apr-2024 11:27:01 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[12-Apr-2024 21:39:45 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[15-Apr-2024 15:48:32 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[17-Apr-2024 12:14:28 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[17-Apr-2024 12:14:30 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[19-Apr-2024 21:10:02 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[21-Apr-2024 18:42:06 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[22-Apr-2024 17:58:01 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[22-Apr-2024 17:58:02 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[22-Apr-2024 18:13:20 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[22-Apr-2024 19:17:29 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[23-Apr-2024 15:05:45 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[23-Apr-2024 18:05:55 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[24-Apr-2024 13:53:24 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[24-Apr-2024 17:06:52 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[24-Apr-2024 17:41:48 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[24-Apr-2024 22:35:42 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[25-Apr-2024 10:39:05 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
+[25-Apr-2024 11:07:22 America/Santiago] PHP Warning:  Undefined array key "status" in /home1/admtraining/public_html/certificaciones/index.php on line 5
